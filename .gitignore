@@ -1,0 +1,16 @@
+dump/
+data/
+ogb-data/
+__pycache__/
+script/
+drugood-data*/
+drugood-data*
+ogb-data
+data
+*.out
+*.tar.gz
+checkpoint.DS_Store
+
+# runtime assets required by fingerprint implementations
+!dataset/fingerprint/data/
+!dataset/fingerprint/data/**
